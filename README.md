@@ -8,24 +8,21 @@ Welcome to **MARDCODE**! We develop creative utility and entertainment apps that
 
 ### 🎉 SpinWheel Party  
 A fun multiplayer spin-the-wheel party game!  
-Perfect for group challenges and party dares.
-
+Perfect for group challenges and party dares.  
 👉 [Download on Google Play](https://play.google.com/store/apps/details?id=com.mardcode.spinwheel)
 
 ---
 
 ### 📷 Sony Camera Control  
 Control your Sony camera remotely with your phone.  
-Supports shutter, recording, zoom, and live preview.
-
+Supports shutter, recording, zoom, and live preview.  
 👉 [Download on Google Play](https://play.google.com/store/apps/details?id=com.mardcode.sonycameracontrol)
 
 ---
 
 ### 🎬 CineHub  
 Track your favorite movies and TV shows.  
-Custom tags, progress tracking, and watchlists for movie lovers.
-
+Custom tags, progress tracking, and watchlists for movie lovers.  
 👉 [Download on Google Play](https://play.google.com/store/apps/details?id=com.mardcode.cinehub)
 
 ---
@@ -34,3 +31,10 @@ Custom tags, progress tracking, and watchlists for movie lovers.
 
 For inquiries, feedback, or collaboration:  
 📧 **info@mardcode.com**
+
+---
+
+## 🌐 Website
+
+Visit our website for more information:  
+👉 [https://www.mardcode.com](https://www.mardcode.com)
